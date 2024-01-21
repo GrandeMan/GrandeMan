@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning typescript and tailwind
+- 🌱 I’m currently learning typescript & Ruby
 - 👯 I’m looking to collaborate on anything UI/UX and design-related
 - ⚡ Fun fact: My thumbs are double-jointed
 <!--
