@@ -1,7 +1,10 @@
-# Hi there 👋
 
-- 🔭 I’m currently working on my website
-- 🌱 I’m currently learning typescript & Ruby
+<img src='https://github.com/GrandeMan/GrandeMan/assets/114616062/0cd0d105-de85-487c-a85c-6e8b7a829b14' w='750' alt='Welcome Banner Image' />
+<br />
+<hr />
+
+- 🔭 I’m currently working on my <a href='https://www.joshuamorales.tech'> website </a>
+- 🌱 I’m currently learning Typescript & PHP
 - 👯 I’m looking to collaborate on anything UI/UX and design-related
 - ⚡ Fun fact: My thumbs are double-jointed
 <!--
