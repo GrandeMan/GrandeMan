@@ -4,7 +4,7 @@
 <hr />
 
 - 🔭 I’m currently working on my <a href='https://www.joshuamorales.tech'> website </a>
-- 🌱 I’m currently learning Typescript & PHP (& maybe Swift but idk yet)
+- 🌱 I’m currently learning Typescript & Swift
 - 👯 I’m looking to collaborate on anything UI/UX and design-related
 - ⚡ Fun fact: My thumbs are double-jointed
 <!--
